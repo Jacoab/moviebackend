@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5dbe83d-e006-4733-be76-9c67ee3092a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YgXQaZjJ4NS3FDzgrCzkjn1uKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" node-parameters="-r dotenv/config" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5dbe83d-e006-4733-be76-9c67ee3092a6" name="Default Changelist" comment="" />
+      <created>1517680644681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517680644681</updated>
+      <workItem from="1517680647269" duration="12385000" />
+      <workItem from="1519076514854" duration="3281000" />
+      <workItem from="1519100227121" duration="592000" />
+      <workItem from="1520305657875" duration="2469000" />
+      <workItem from="1520308174902" duration="3305000" />
+      <workItem from="1551740823482" duration="7355000" />
+      <workItem from="1552144308160" duration="1000" />
+      <workItem from="1583365197285" duration="2397000" />
+      <workItem from="1584229542950" duration="909000" />
+      <workItem from="1585078610271" duration="110000" />
+      <workItem from="1585254291171" duration="885000" />
+      <workItem from="1585414974988" duration="5539000" />
+      <workItem from="1585707446805" duration="619000" />
+      <workItem from="1585953468584" duration="11880000" />
+      <workItem from="1586292452521" duration="698000" />
+      <workItem from="1586302598114" duration="10867000" />
+      <workItem from="1586558253474" duration="1218000" />
+      <workItem from="1586571686713" duration="791000" />
+      <workItem from="1587080349086" duration="2877000" />
+      <workItem from="1587321067645" duration="13786000" />
+      <workItem from="1587674555093" duration="3228000" />
+    </task>
+    <task id="LOCAL-00001" summary="movie js file created">
+      <created>1585518779134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585518779134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="movie js file created&#10;reviews js file created&#10;aggregate function attempted">
+      <created>1586033349882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586033349882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="movie js updated">
+      <created>1586043750641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586043750641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="movie js updated">
+      <created>1586045037494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586045037494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="server js updated">
+      <created>1586126792198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586126792198</updated>
+    </task>
+    <task id="LOCAL-00006" summary="server js updated">
+      <created>1586127156179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586127156179</updated>
+    </task>
+    <task id="LOCAL-00007" summary="server js updated">
+      <created>1586135010975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586135010975</updated>
+    </task>
+    <task id="LOCAL-00008" summary="server js updated">
+      <created>1586135964612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586135964612</updated>
+    </task>
+    <task id="LOCAL-00009" summary="server js updated">
+      <created>1586136013058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586136013058</updated>
+    </task>
+    <task id="LOCAL-00010" summary="server js updated">
+      <created>1586318905871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586318905872</updated>
+    </task>
+    <task id="LOCAL-00011" summary="server js updated">
+      <created>1586319832455</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586319832455</updated>
+    </task>
+    <task id="LOCAL-00012" summary="server js updated">
+      <created>1586319913020</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586319913020</updated>
+    </task>
+    <task id="LOCAL-00013" summary="server js updated">
+      <created>1586558338115</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586558338115</updated>
+    </task>
+    <task id="LOCAL-00014" summary="server js updated">
+      <created>1586558780057</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586558780057</updated>
+    </task>
+    <task id="LOCAL-00015" summary="base commit">
+      <created>1587170689874</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587170689874</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated movie for imgurl">
+      <created>1587324486239</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587324486239</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated movie for imgurl">
+      <created>1587326238760</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587326238760</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updated server for imgurl">
+      <created>1587328474483</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587328474483</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updated server for avg rating">
+      <created>1587339045363</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587339045363</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updated server for avg rating">
+      <created>1587340363148</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587340363148</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updated server for avg rating">
+      <created>1587344074033</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587344074033</updated>
+    </task>
+    <task id="LOCAL-00022" summary="updated server for avg rating">
+      <created>1587344276058</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587344276058</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated server for avg rating">
+      <created>1587344542988</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587344542988</updated>
+    </task>
+    <task id="LOCAL-00024" summary="updated server for avg rating">
+      <created>1587344773901</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587344773901</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updated server for avg rating">
+      <created>1587344910064</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1587344910064</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updated server for avg rating">
+      <created>1587345306449</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1587345306449</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updated server for avg rating">
+      <created>1587345424942</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1587345424942</updated>
+    </task>
+    <task id="LOCAL-00028" summary="movieName -&gt; title">
+      <created>1587676516998</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1587676516998</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="movie js file created" />
+    <MESSAGE value="movie js file created&#10;reviews js file created&#10;aggregate function attempted" />
+    <MESSAGE value="movie js updated" />
+    <MESSAGE value="server js updated" />
+    <MESSAGE value="base commit" />
+    <MESSAGE value="updated movie for imgurl" />
+    <MESSAGE value="updated server for imgurl" />
+    <MESSAGE value="updated server for avg rating" />
+    <MESSAGE value="movieName -&gt; title" />
+    <option name="LAST_COMMIT_MESSAGE" value="movieName -&gt; title" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="0" key="CommitChangelistDialog2" timestamp="1587693913974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="352" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587693913974" />
+    <state x="535" y="179" key="FileChooserDialogImpl" timestamp="1587321988927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="158" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1585078719797" />
+    <state x="535" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587321988927" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1586146508047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586146508047" />
+    <state width="1259" height="223" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583367584852" />
+    <state width="1659" height="230" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583365605028" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1586146508046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586146508046" />
+    <state width="1259" height="223" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583367584851" />
+    <state width="1659" height="230" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583365605027" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1586146508045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586146508045" />
+    <state width="1259" height="223" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583367584851" />
+    <state width="1659" height="230" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583365605026" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1586146508047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586146508047" />
+    <state width="1259" height="223" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583367584852" />
+    <state width="1659" height="230" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583365605027" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1585519754422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585519754422" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1585519754422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585519754422" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1585519754424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585519754424" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1585519754424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1585519754424" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1585519754423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1585519754423" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1585519754424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1585519754424" />
+    <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586127146450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586127146450" />
+  </component>
+</project>
